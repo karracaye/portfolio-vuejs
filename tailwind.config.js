@@ -9,7 +9,12 @@ export default {
     "./error.vue",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        jakartSans: ['Plus Jakarta Sans', 'sans-serif'],
+        babylonica: ['Babylonica', 'cursive'],
+      },
+    },
   },
   plugins: [],
 }
