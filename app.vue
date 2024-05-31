@@ -1,23 +1,31 @@
 <template>
-   <header class="font-jakartSans bg-gray-500 flex items-center justify-between p-5 h-[5rem] z-10 relative" style="background-color: rgba(255, 255, 255, 0);">
-      <div class="logo w-16 h-16 p-3">
+  <div class="relative">
+    <div class="h-screen w-screen absolute main-image"></div>
+    <!-- <img src="https://i.ibb.co/n18WzZv/Background-Karra.png" class="h-screen w-screen absolute" alt="" srcset=""> -->
+
+    <!-- <img class="w-screen h-screen object-cover absolute" src="https://i.ibb.co/n18WzZv/Background-Karra.png" border="0" alt="Full Screen Image"> -->
+    <header class="font-jakartSans w-screen  flex items-center justify-center p-5 h-[2rem] z-10 relative">
+      <div class="glass-container">
+        <div class="logo w-16 h-16 p-3">
         <img src="https://i.ibb.co/jGd34HR/K.png" alt="K" border="0">
       </div>
       <nav>
-        <ul class="flex space-x-4">
-          <li><NuxtLink to="/">Home</NuxtLink></li>
-          <li><NuxtLink to="/">Work</NuxtLink></li>
-          <li><NuxtLink to="/portfolio">Gallery</NuxtLink></li>
-          <li><NuxtLink to="/portfolio">About Us</NuxtLink></li>
+        <ul class="flex space-x-10 items-center text-sm">
+          <li><NuxtLink to="/">HOME</NuxtLink></li>
+          <li><NuxtLink to="/">WORK</NuxtLink></li>
+          <li><NuxtLink to="/portfolio">GALLERY</NuxtLink></li>
+          <li class="bg-white px-3 py-2 text-black rounded-sm"><NuxtLink to="/portfolio">LET'S TALK</NuxtLink></li>
 
         </ul>
       </nav>
+      </div>
     </header>
-  <div class="z-0 font-jakartSans">
-    <NuxtLayout>
-      <NuxtPage />
-    </NuxtLayout>
-    <!-- <NuxtWelcome /> -->
+    <div class="font-jakartSans w-screen h-max">
+      <NuxtLayout>
+        <NuxtPage />
+      </NuxtLayout>
+      <!-- <NuxtWelcome /> -->
+    </div>
   </div>
-  <div></div>
+  
 </template>

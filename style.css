@@ -3,7 +3,95 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@font-face {
+    font-family: 'Amsterdam';
+    src: url('../assets/fonts/amsterdam.woff2') format('woff2'),
+         url('../assets/fonts/amsterdam.woff') format('woff');
+    /* Add additional font formats if available */
+    font-weight: normal;
+    font-style: normal;
+  }
 .header{
     padding: 0;
     margin: 0;
 }
+
+.me-name{
+    margin-bottom: -60px;
+}
+
+.glass-container{
+    margin-top: 5rem;
+    width: max-content;
+    border-radius: 1px;
+    background: rgba(100, 100, 100, 0.2);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    /* padding: 20px; */
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    color: #fff;
+    gap: 30px;
+    position:fixed;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 1px solid #434343;
+}
+
+.main-image{
+    background-image: url("https://i.ibb.co/n18WzZv/Background-Karra.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.small-logo {
+    width: 250px; 
+    height: auto;
+    margin-right: 50px; 
+    filter: grayscale(1);
+}
+.box {
+    border: 1px solid #e3e3e312;
+    padding: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+    background-color: rgba(41, 40, 40, 0.382); 
+    backdrop-filter: blur(50px); 
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    
+    
+  }
+  .icon-container {
+    margin-right: 10px; 
+    padding: 10px;
+  }
+  .circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.5); 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .circle i {
+    color: #57575770; 
+  }
+  .content {
+    flex-grow: 1; 
+    position: relative;
+  }
+  .glass-effect {
+    backdrop-filter: blur(10px); 
+    border: 1px solid rgba(88, 88, 88, 0.884); 
+  }
+  .additional-info {
+    display: flex;
+    align-items: center;
+    
+  }

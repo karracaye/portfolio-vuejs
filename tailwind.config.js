@@ -13,6 +13,7 @@ export default {
       fontFamily: {
         jakartSans: ['Plus Jakarta Sans', 'sans-serif'],
         babylonica: ['Babylonica', 'cursive'],
+        Amsterdam: ['Amsterdam'],
       },
     },
   },
