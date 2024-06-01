@@ -131,7 +131,12 @@
             </div>
           </div>
         </div>
-        <!-- .. --> 
+        <div class="text-white font-extralight d-flex items-center justify-center text-center mt-8 p-16">
+          <div>
+            <p class="text-sm opacity-75 ">THE PROCESS</p>
+          </div>
+          </div>
+        <!-- add here ..  --> 
       </div>
     </div>
   </template>
