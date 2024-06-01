@@ -4,8 +4,8 @@
     <!-- <img src="https://i.ibb.co/n18WzZv/Background-Karra.png" class="h-screen w-screen absolute" alt="" srcset=""> -->
 
     <!-- <img class="w-screen h-screen object-cover absolute" src="https://i.ibb.co/n18WzZv/Background-Karra.png" border="0" alt="Full Screen Image"> -->
-    <header class="font-jakartSans w-screen  flex items-center justify-center p-5 h-[2rem] z-10 relative">
-      <div class="glass-container">
+    <header class="font-jakartSans w-screen  flex items-center justify-center p-5 h-[2rem] z-[9999] relative">
+      <div class="glass-container fix-this">
         <div class="logo w-16 h-16 p-3">
         <img src="https://i.ibb.co/jGd34HR/K.png" alt="K" border="0">
       </div>

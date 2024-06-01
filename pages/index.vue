@@ -20,7 +20,7 @@
         </div>
         <div class="h-max w-screen bg-[#191919]">
           <LogoCarousel />
-        <div class="text-white flex justify-between p-12">
+        <div class="text-white grid grid-cols-3 p-12">
           <div class="box">
             <div class="content">
               <h2 class="text-xs mb-2 opacity-50">01</h2>
@@ -81,9 +81,9 @@
             <p class="text-xs ml-2">SEE ALL</p>
           </div>
         </div>
-        <div class="grid grid-cols-2 md:grid-cols-2 gap-6 p-12">
+        <div class="grid grid-cols-2 md:grid-cols-2 gap-6 p-12 -mt-[4rem]">
           <div class="relative">
-            <img src="https://i.ibb.co/fp76QSt/MOCK-UP-02.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm">
+            <img src="https://i.ibb.co/fp76QSt/MOCK-UP-02.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
                 <i class="fas fa-arrow-right text-gray"></i>
@@ -95,7 +95,7 @@
             </div>
           </div>
           <div class="relative">
-            <img src="https://i.ibb.co/dg2xPnQ/MOCK-UP-01.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm">
+            <img src="https://i.ibb.co/dg2xPnQ/MOCK-UP-01.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
                 <i class="fas fa-arrow-right text-gray"></i>
@@ -107,7 +107,7 @@
             </div>
           </div>
           <div class="relative">
-            <img src="https://i.ibb.co/rxLPS5J/MOCK-UP-03.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm">
+            <img src="https://i.ibb.co/rxLPS5J/MOCK-UP-03.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
                 <i class="fas fa-arrow-right text-gray"></i>
@@ -119,7 +119,7 @@
             </div>
           </div>
           <div class="relative">
-            <img src="https://i.ibb.co/8mKZN64/MOCK-UP-04.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm">
+            <img src="https://i.ibb.co/8mKZN64/MOCK-UP-04.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
                 <i class="fas fa-arrow-right text-gray"></i>
