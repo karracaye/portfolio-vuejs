@@ -70,6 +70,68 @@
             </div>
           </div>
         </div>
+        <div class="text-white font-extralight flex justify-between items-center mt-8 p-16">
+          <div>
+            <p class="text-4xl opacity-75">Selected Work</p>
+          </div>
+          <div class="flex items-center">
+            <div class="circle glass-effect">
+              <i class="fas fa-arrow-right"></i>
+            </div>
+            <p class="text-xs ml-2">SEE ALL</p>
+          </div>
+        </div>
+        <div class="grid grid-cols-2 md:grid-cols-2 gap-6 p-12">
+          <div class="relative">
+            <img src="https://i.ibb.co/fp76QSt/MOCK-UP-02.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm">
+            <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
+              <div class="circle glassy">
+                <i class="fas fa-arrow-right text-gray"></i>
+              </div>
+            </div>
+            <div class="absolute bottom-0 left-0 right-0 bg-gray-300 bg-opacity-80 p-3 m-10 flex justify-between gallery-info">
+              <p class="text-sm font-extralight text-white p-2">DOCUMENT</p>
+              <p class="text-sm font-extralight text-white p-2">MOBILE</p>
+            </div>
+          </div>
+          <div class="relative">
+            <img src="https://i.ibb.co/dg2xPnQ/MOCK-UP-01.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm">
+            <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
+              <div class="circle glassy">
+                <i class="fas fa-arrow-right text-gray"></i>
+              </div>
+            </div>
+            <div class="absolute bottom-0 left-0 right-0 bg-gray-300 bg-opacity-80 p-3 m-10 flex justify-between gallery-info">
+              <p class="text-sm font-extralight text-white p-2">BENEA</p>
+              <p class="text-sm font-extralight text-white p-2">WEB DESIGN</p>
+            </div>
+          </div>
+          <div class="relative">
+            <img src="https://i.ibb.co/rxLPS5J/MOCK-UP-03.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm">
+            <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
+              <div class="circle glassy">
+                <i class="fas fa-arrow-right text-gray"></i>
+              </div>
+            </div>
+            <div class="absolute bottom-0 left-0 right-0 bg-gray-300 bg-opacity-80 p-3 m-10 flex justify-between gallery-info">
+              <p class="text-sm font-extralight text-white p-2">JCI</p>
+              <p class="text-sm font-extralight text-white p-2">WEB DESIGN</p>
+            </div>
+          </div>
+          <div class="relative">
+            <img src="https://i.ibb.co/8mKZN64/MOCK-UP-04.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm">
+            <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
+              <div class="circle glassy">
+                <i class="fas fa-arrow-right text-gray"></i>
+              </div>
+            </div>
+            <div class="absolute bottom-0 left-0 right-0 bg-gray-300 bg-opacity-80 p-3 m-10 flex justify-between gallery-info">
+              <p class="text-sm font-extralight text-white p-2">INNOVEX</p>
+              <p class="text-sm font-extralight text-white p-2">WEB DESIGN</p>
+            </div>
+          </div>
+        </div>
+        <!-- .. --> 
       </div>
     </div>
   </template>
