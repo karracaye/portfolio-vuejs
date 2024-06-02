@@ -131,5 +131,21 @@
   .fix-this{
     z-index: 999 !important;
   }
+.steps{
+    font-style: italic;
+}
+.circle-glass {
+    width: 40px; 
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.033); 
+    border: 1px solid rgba(93, 93, 93, 0.5); 
+    border-radius: 50%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
 
-  
+.fa-arrow-down {
+    font-size: 15px; 
+}

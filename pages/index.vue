@@ -131,10 +131,123 @@
             </div>
           </div>
         </div>
-        <div class="text-white font-extralight d-flex items-center justify-center text-center mt-8 p-16">
-          <div>
-            <p class="text-sm opacity-75 ">THE PROCESS</p>
-          </div>
+          <div class="text-white font-extralight flex items-center justify-center text-center mt-8 p-16">
+            <div>
+              <p class="text-sm opacity-30 ">METHOD INSIGHTS</p>
+              <p class="text-7xl opacity-75 p-5"> Building Your Website</p>
+              <p class="text-6xl opacity-75 font-serif steps">One Step at a Time.</p>
+              <p class="text-lg opacity-30 p-6">Your web design will be meticulously tailored to precisely <br> match your unique requirements and preferences.</p>
+             <div class="flex justify-center items-center relative flex-col gap-4">
+                <div class="circle-glass">
+                  <i class="fas fa-arrow-down text-gray opacity-50"></i>
+                </div>
+               <div class="bg-white opacity-5 w-px h-48 " />
+             </div>
+
+
+             <!-- ITEM 1 RIGHT -->
+             <div class="grid grid-cols-3 pt-3">
+              <div></div>
+
+              <div class="flex justify-center items-center relative flex-col gap-4">
+                <p class="text-xs circle-glass">01</p>
+               <div class="bg-white opacity-5 w-px h-48 " />
+              </div>
+
+              <div class="circle-glass">
+                <!-- .. -->
+                <div class="box ">
+                  <div class="content-box">
+                    <h2 class="text-xs mb-2 opacity-50">02</h2>
+                    <h3 class="text-lg mb-6 opacity-75">WEB DESIGN</h3>
+                    <p class="text-sm mb-5 opacity-30"> </p>
+                  </div>
+                </div>
+              </div>
+             </div>
+
+             <!-- ITEM 2 LEFT -->
+             <div class="grid grid-cols-3 pt-3">
+              <div class="circle-glass">
+                <!-- .. -->
+                <div class="box ">
+                  <div class="content-box">
+                    <h2 class="text-xs mb-2 opacity-50">02</h2>
+                    <h3 class="text-lg mb-6 opacity-75">WEB DESIGN</h3>
+                    <p class="text-sm mb-5 opacity-30"> </p>
+                  </div>
+                </div>
+              </div>
+              <div class="flex justify-center items-center relative flex-col gap-4">
+                <p class="text-xs circle-glass">02</p>
+               <div class="bg-white opacity-5 w-px h-48 " />
+              </div>
+              <div></div>
+             </div>
+
+             <!-- ITEM 3 RIGHT -->
+             <div class="grid grid-cols-3 pt-3">
+              <div></div>
+
+              <div class="flex justify-center items-center relative flex-col gap-4">
+                <p class="text-xs circle-glass">03</p>
+               <div class="bg-white opacity-5 w-px h-48 " />
+              </div>
+
+              <div class="circle-glass">
+                <!-- .. -->
+                <div class="box ">
+                  <div class="content-box">
+                    <h2 class="text-xs mb-2 opacity-50">02</h2>
+                    <h3 class="text-lg mb-6 opacity-75">WEB DESIGN</h3>
+                    <p class="text-sm mb-5 opacity-30"> </p>
+                  </div>
+                </div>
+              </div>
+             </div>
+
+             <!-- ITEM 4 LEFT -->
+             <div class="grid grid-cols-3 pt-3">
+              <div class="circle-glass">
+                <!-- .. -->
+                <div class="box ">
+                  <div class="content-box">
+                    <h2 class="text-xs mb-2 opacity-50">02</h2>
+                    <h3 class="text-lg mb-6 opacity-75">WEB DESIGN</h3>
+                    <p class="text-sm mb-5 opacity-30"> </p>
+                  </div>
+                </div>
+              </div>
+              <div class="flex justify-center items-center relative flex-col gap-4">
+                <p class="text-xs circle-glass">04</p>
+               <div class="bg-white opacity-5 w-px h-48 " />
+              </div>
+              <div></div>
+             </div>
+
+              <!-- ITEM 3 RIGHT -->
+              <div class="grid grid-cols-3 pt-3">
+              <div></div>
+
+              <div class="flex justify-center items-center relative flex-col gap-4">
+                <p class="text-xs circle-glass">05</p>
+               <div class="bg-white opacity-5 w-px h-48 " />
+              </div>
+
+              <div class="circle-glass">
+                <!-- .. -->
+                <div class="box ">
+                  <div class="content-box">
+                    <h2 class="text-xs mb-2 opacity-50">02</h2>
+                    <h3 class="text-lg mb-6 opacity-75">WEB DESIGN</h3>
+                    <p class="text-sm mb-5 opacity-30"> </p>
+                  </div>
+                </div>
+              </div>
+             </div>
+
+
+            </div>
           </div>
         <!-- add here ..  --> 
       </div>
