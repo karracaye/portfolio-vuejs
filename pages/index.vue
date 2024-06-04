@@ -83,7 +83,7 @@
         </div>
         <div class="grid grid-cols-2 md:grid-cols-2 gap-6 p-12 -mt-[4rem]">
           <div class="relative">
-            <img src="https://i.ibb.co/fp76QSt/MOCK-UP-02.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
+            <img src="../public/img/MOCK UP 02.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
                 <i class="fas fa-arrow-right text-gray"></i>
@@ -95,7 +95,7 @@
             </div>
           </div>
           <div class="relative">
-            <img src="https://i.ibb.co/dg2xPnQ/MOCK-UP-01.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
+            <img src="../public/img/MOCK UP - 01.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
                 <i class="fas fa-arrow-right text-gray"></i>
@@ -107,7 +107,7 @@
             </div>
           </div>
           <div class="relative">
-            <img src="https://i.ibb.co/rxLPS5J/MOCK-UP-03.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
+            <img src="../public/img/MOCK UP-03.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
                 <i class="fas fa-arrow-right text-gray"></i>
@@ -119,7 +119,7 @@
             </div>
           </div>
           <div class="relative">
-            <img src="https://i.ibb.co/8mKZN64/MOCK-UP-04.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
+            <img src="../public/img/MOCK UP- 04.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
                 <i class="fas fa-arrow-right text-gray"></i>
@@ -262,23 +262,44 @@
               <div>
                 <p class="text-sm opacity-30 ">TESTIMONIALS</p>
                 <p class="text-7xl opacity-75 p-5"> What my</p>
-                <p class="text-6xl opacity-75 font-serif steps">clients say</p>
-                <p class="text-lg opacity-30 p-6">Discover what my clients have to share about their experience working with <br> me and the outcomes I assisted them in accomplishing.</p>
+                <p class="text-6xl opacity-75 mb-3 font-serif steps">clients say</p>
+                <p class="text-lg opacity-30 p-6">Unlock the power of real stories. Discover firsthand experiences and successes <br> shared by my valued clients, highlighting the transformative impact of our collaboration.</p>
               </div>
             </div>
-              <div class="box max-w-md h-96 w-96 right-box">
-                <div class="box h-96 w-96 right-two-box">
+            <div class="new-container">
+              <div class="testimonials-container">
+                  <div class="box max-w-md h-96 w-96 right-box">
+                    <div class="box h-96 w-96 right-two-box">
+                    </div>
+                    <div class="testimonials h-20 w-80 justify-center items-center">
+                      <div class="testimonial-content flex items-center">
+                        <div class="testimonial-image m-1">
+                          <img src="../public/img/pf-4.jpeg" alt="Testimonial Image">
+                        </div>
+                        <div class="testimonial-text">
+                          <p class="text-xs text-white">This is a customer testimonial. It could be a comment about the product or service.</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="test bottom h-20 w-80 justify-center items-center">
+                      <div class="testimonial-content flex items-center">
+                        <div class="testimonial-image m-1">
+                          <img src="../public/img/pf.jpeg" alt="Testimonial Image">
+                        </div>
+                      <div class="testimonial-text">
+                        <p class="text-xs text-white">This is another customer testimonial positioned at the bottom.</p>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-                <div class="testimonials h-20 w-80 justify-center items-center  ">
-                  <div class="text-xs circle-glass-comment p-6 pt-15"> </div>
-                  <p class="text-xs text-white">This is a customer testimonial. It could be a comment about the product or service.</p>
-                </div>   
+              </div>
+              <div class="description-testimonials ml-20">
+                <div class="rounded-sm p-5">
+                  <p class="text-white text-sm">Discover what my clients have to share about their experience working with me and the outcomes I assisted them in accomplishing. From overcoming challenges to achieving their goals, their stories highlight the impact of our collaboration and the value of my expertise. </p>
+              </div>
             </div>
-              
-            
-            
-        </div>
-        
+          </div>
+        </div> 
       </div>
   </template>
   
