@@ -326,13 +326,32 @@
               </div>
             </div>
           </div>
-        </div> 
+          <div class="flex justify-between relative items-center mt-[19em]" style="background-image: url('../public/img/Caye.png');">
+            <div class="about-me">
+              <img src="../public/img/Caye.png" height="200" width="200" alt="Background Image" class="w-full h-full">
+            </div>
+            <div class="text-left desc-me pr-[15rem]">
+              <p class="text-xs text-white font-thin opacity-50">ABOUT</p>
+              <p class="text-5xl text-white mt-3 leading-[60px]">Designing websites that make a <span class="font-serif italic">emorable impact!</span></p>
+              <p class="text-lg text-white font-thin opacity-50 mt-5 leading-[30px]">Hi, I'm Karra Caye Santillan, a freelance professional with expertise in top-tier web design, development, and software engineering. 
+               My dedication lies in crafting distinctive and impactful solutions tailored to each client's needs. Collaborate with me, and let's transform your ideas into reality!</p>
+               <div class="additional-info mt-5">
+                <div class="icon-container">
+                  <div class="circle glass-effect">
+                    <i class="fas fa-arrow-right"></i>
+                  </div>
+                </div>
+                <p class="text-xs text-white font-thin">ABOUT ME</p>
+                </div>
+              </div>
+          </div>
+        </div>
       </div>
   </template>
   
   <script setup lang="ts">
   import { ref, onMounted, onUnmounted } from 'vue';
-  import LogoCarousel from '~/pages/LogoCarousel.vue';
+  import LogoCarousel from '~/components/LogoCarousel.vue';
   
 
   const recentWorkVisible = ref(false);

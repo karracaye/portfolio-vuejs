@@ -257,6 +257,14 @@
   position: absolute;
   bottom: 0;
 }
-.description{
-  font: italic;
+.about-me {
+  flex-grow: 1;
+  position: absolute;
+  z-index: 10;
+}
+
+.desc-me{
+  position: relative;
+  z-index: 20;
+  margin-left: 40%;
 }
