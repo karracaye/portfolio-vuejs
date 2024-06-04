@@ -134,11 +134,10 @@
 }
 
 .left-box{
-    /* margin-right: 13em !important; */
     margin-right: 10px;
 }
 .testimonials-container {
-  flex: 0 0 50%; /* Adjust as needed */
+  flex: 0 0 50%; 
 }
 .new-container {
   display: flex;
@@ -146,6 +145,7 @@
   max-width: 1200px;
   margin: 0 auto;
   align-items: center;
+  margin-left: 12rem;
 }
 .circle-glass {
     width: 40px; 
@@ -208,8 +208,8 @@
  }
  .testimonials{
     position: absolute; 
-    top: 20%; 
-    left:60%; 
+    top: 10%; 
+    left:40%; 
     border-radius: 2px;
     background-color: rgb(38, 38, 38);
     box-shadow: 0 0 7px rgba(143, 140, 140, 0.3);
@@ -256,4 +256,7 @@
 .bottom {
   position: absolute;
   bottom: 0;
+}
+.description{
+  font: italic;
 }
