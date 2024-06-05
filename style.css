@@ -42,7 +42,7 @@
 }
 
 .main-image{
-    background-image: url("https://i.ibb.co/n18WzZv/Background-Karra.png");
+    background-image: url("./public/img/Background-Karra.png");
     background-size: cover;
     background-position: center;
 }
@@ -83,6 +83,17 @@
   .content {
     flex-grow: 1; 
     position: relative;
+  }
+  .circle-icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgba(50, 50, 50, 0.685); 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(10px); 
+    border: 1px solid rgb(151, 151, 151); 
   }
   .glass-effect {
     backdrop-filter: blur(10px); 

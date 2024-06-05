@@ -14,7 +14,6 @@ export default {
         jakartSans: ['Plus Jakarta Sans', 'sans-serif'],
         babylonica: ['Babylonica', 'cursive'],
         Amsterdam: ['Amsterdam'],
-        
       },
     },
   },

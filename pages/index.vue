@@ -332,7 +332,7 @@
             </div>
             <div class="text-left desc-me pr-[15rem]">
               <p class="text-xs text-white font-thin opacity-50">ABOUT</p>
-              <p class="text-5xl text-white mt-3 leading-[60px]">Designing websites that make a <span class="font-serif italic">emorable impact!</span></p>
+              <p class="text-5xl text-white mt-3 leading-[60px]">Designing websites that make a <span class="font-serif italic">memorable impact!</span></p>
               <p class="text-lg text-white font-thin opacity-50 mt-5 leading-[30px]">Hi, I'm Karra Caye Santillan, a freelance professional with expertise in top-tier web design, development, and software engineering. 
                My dedication lies in crafting distinctive and impactful solutions tailored to each client's needs. Collaborate with me, and let's transform your ideas into reality!</p>
                <div class="additional-info mt-5">
@@ -343,10 +343,20 @@
                 </div>
                 <p class="text-xs text-white font-thin">ABOUT ME</p>
                 </div>
+               
               </div>
+              
+              
+              
           </div>
+          <Footer />
+          
         </div>
+        
+       
+        
       </div>
+      
   </template>
   
   <script setup lang="ts">
@@ -366,8 +376,10 @@
         window.removeEventListener('scroll', handleScroll);
       }
     }
-    
   };
+
+  
+  
 
   onMounted(() => {
     window.addEventListener('scroll', handleScroll);
@@ -376,6 +388,7 @@
   onUnmounted(() => {
     window.removeEventListener('scroll', handleScroll);
   });
+  
 
   </script>
   

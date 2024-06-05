@@ -7,7 +7,7 @@
     <header class="font-jakartSans w-screen  flex items-center justify-center p-5 h-[2rem] z-[9999] relative">
       <div class="glass-container fix-this">
         <div class="logo w-16 h-16 p-3">
-        <img src="https://i.ibb.co/jGd34HR/K.png" alt="K" border="0">
+        <img src="./public/img/K.png" alt="K" border="0">
       </div>
       <nav>
         <ul class="flex space-x-10 items-center text-sm">
