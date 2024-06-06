@@ -146,16 +146,16 @@
 
 
              <!-- ITEM CARD 1 RIGHT -->
-             <div class="grid grid-cols-3 pt-7">
+             <div class="grid grid-cols-3 pt-7 ">
               <div></div>
 
               <div class="flex justify-center items-center relative flex-col gap-4">
                 <p class="text-xs circle-glass">01</p>
                <div class="bg-white opacity-5 w-px vertical" />
               </div>
-              <div class="circle-glass w-full p-8">
+              <div class="circle-glass w-full p-8 no-display">
                 <!-- .. -->
-                <div class="box m-60 max-w-md w-30 sline-in" ref="recentWork">
+                <div class="box m-60 max-w-md w-30 animate-fade-in-up" style="animation-delay: 0s;" ref="recentWork">
                   <div class="content-box w-96 p-3 text-left">
                     <h2 class="text-xs mb-3 opacity-50">ARE WE COMPATIBLE?</h2>
                     <h3 class="text-lg mb-2 opacity-75">LET'S CONNECT </h3>
@@ -169,9 +169,9 @@
 
              <!-- ITEM CARD 2 LEFT -->
              <div class="grid grid-cols-3 pt-7">
-              <div class="circle-glass w-full p-7">
+              <div class="circle-glass w-full p-7 no-display">
                 <!-- .. -->
-                <div class="box max-w-md w-30 box-card left-box">
+                <div class="box max-w-md w-30 box-card animate-fade-in-up left-box"  style="animation-delay: 0.3s;">
                   <div class="content-box w-96 p-3 text-left ">
                     <h2 class="text-xs mb-2 opacity-50">PLANNING FOR SUCCESS</h2>
                     <h3 class="text-lg mb-3 opacity-75">THE CONCEPT & STRATEGY</h3>
@@ -199,9 +199,9 @@
                <div class="bg-white opacity-5 w-px vertical " />
               </div>
 
-              <div class="circle-glass w-full p-8">
+              <div class="circle-glass w-full p-8 no-display">
                 <!-- .. -->
-                <div class="box m-60 max-w-md w-30">
+                <div class="box m-60 max-w-md animate-fade-in-up w-30"  style="animation-delay: 0.6s;">
                   <div class="content-box w-96 p-3 text-left">
                     <h2 class="text-xs mb-2 opacity-50">INTERACTIVE PROTOTYPE</h2>
                     <h3 class="text-lg mb-4 opacity-75">WEB & MOBILE DESIGN</h3>
@@ -213,9 +213,9 @@
 
              <!-- ITEM 4 LEFT -->
              <div class="grid grid-cols-3 pt-7">
-              <div class="circle-glass w-full p-7">
+              <div class="circle-glass w-full p-7 no-display">
                 <!-- .. -->
-                <div class="box max-w-md w-30 box-card left-box">
+                <div class="box max-w-md w-30 box-card animate-fade-in-up left-box"  style="animation-delay: 1s;">
                     <div class="content-box w-96 p-3 text-left ">
                       <h2 class="text-xs mb-2 opacity-50">CROSS-PLATFORM SOLUTION</h2>
                       <h3 class="text-lg mb-3 opacity-75">DEVELOPMENT</h3>
