@@ -76,12 +76,12 @@
             <div class="w-full px-4 lg:w-1/4 md:w-1/2">
                 <h2 class="mb-3 text-sm font-medium tracking-widest text-white uppercase title-font">Platform
                 </h2>
-                <nav class="mb-10 list-none">
+                <nav class="mb-10 list-none font-thin text-sm">
                     <li class="mt-3">
-                        <a class="text-gray-500 cursor-pointer hover:text-gray-900">Terms &amp; Privacy</a>
+                        <a class="text-gray-500 cursor-pointer hover:text-gray-900">TERMS &amp; PRIVACY</a>
                     </li>
                     <li class="mt-3">
-                        <a class="text-gray-500 cursor-pointer hover:text-gray-900">Pricing</a>
+                        <a class="text-gray-500 cursor-pointer hover:text-gray-900">STYLE GUIDE</a>
                     </li>
                     <li class="mt-3">
                         <a class="text-gray-500 cursor-pointer hover:text-gray-900">FAQ</a>
@@ -90,12 +90,12 @@
             </div>
             <div class="w-full px-4 lg:w-1/4 md:w-1/2">
                 <h2 class="mb-3 text-sm font-medium tracking-widest text-white uppercase title-font">Contact</h2>
-                <nav class="mb-10 list-none">
+                <nav class="mb-10 list-none font-thin text-sm">
                     <li class="mt-3">
-                        <a class="text-gray-500 cursor-pointer hover:text-gray-900">Send a Message</a>
+                        <a class="text-gray-500 cursor-pointer hover:text-gray-900">SEND A MESSAGE</a>
                     </li>
                     <li class="mt-3">
-                        <a class="text-gray-500 cursor-pointer hover:text-gray-900">Request a Quote</a>
+                        <a class="text-gray-500 cursor-pointer hover:text-gray-900">REQUEST A QUOTE</a>
                     </li>
                     <li class="mt-3">
                         <a class="text-gray-500 cursor-pointer hover:text-gray-900">+639-669-809-061</a>
@@ -106,7 +106,7 @@
     </div>
     <div class="bg-black-500">
         <div class="container px-5 py-4 mx-auto">
-            <p class="text-sm text-gray-700 capitalize xl:text-center">© 2024 All rights reserved </p>
+            <p class="text-sm text-gray-600 font-thin capitalize xl:text-center">© 2024 All rights reserved </p>
         </div>
     </div>
 </footer>

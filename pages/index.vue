@@ -177,8 +177,8 @@
                     <h3 class="text-lg mb-3 opacity-75">THE CONCEPT & STRATEGY</h3>
                     <p class="text-sm mb-3 opacity-30"> We collaborate to develop a roadmap that merges your goals with your audience's needs. This roadmap guides the creation of initial wireframes and an interactive prototype, offering a clear vision of the website's layout and user experience.</p>
                     <div class="logo flex items-center">
-                    <img src="https://i.ibb.co/VNVKrqr/figma-transparent.png" alt="Figma Logo" class="text-gray opacity-50 figma-logo">
-                    <img src="https://i.ibb.co/Rzd9TqL/XD.png" alt="xd Logo" class="text-gray opacity-50 xd-logo">
+                    <img src="../public/img/figma-transparent.png" alt="Figma Logo" class="text-gray opacity-50 figma-logo">
+                    <img src="../public/img/XD.png" alt="xd Logo" class="text-gray opacity-50 xd-logo">
                     </div>
                   </div>
                 </div>
@@ -221,10 +221,10 @@
                       <h3 class="text-lg mb-3 opacity-75">DEVELOPMENT</h3>
                       <p class="text-sm mb-3 opacity-30">Now, we infuse vitality into your refined design. Expect a bespoke website crafted with a modular web design system and seamless CMS integration. Elevate your online presence with captivating animations that distinguish you from the mundane competition.</p>
                       <div class="logo flex items-center">
-                      <img src="https://i.ibb.co/PQdhPrv/nuxt-logo-1-CCC5-F38-FD-seeklogo-com.png" alt="nuxt Logo" class="text-gray opacity-50 nuxt-logo mr-2">
-                      <img src="https://i.ibb.co/D7b0r5J/logo.png" alt="vue Logo" class="text-gray opacity-50 vue-logo mr-1">
-                      <img src="https://i.ibb.co/cLmLTZ0/screenshot-361-removebg-preview.png" alt="tailwind Logo" class="text-gray opacity-50 tailwind-logo mr-1">
-                      <img src="https://i.ibb.co/jbLgzmZ/react-logo.png" alt="react Logo" class="text-gray opacity-50 react-logo mr-2">
+                      <img src="../public/img/nuxt.png" alt="nuxt Logo" class="text-gray opacity-50 nuxt-logo mr-2">
+                      <img src="../public/img/logo.png" alt="vue Logo" class="text-gray opacity-50 vue-logo mr-1">
+                      <img src="../public/img/screenshot_361-removebg-preview.png" alt="tailwind Logo" class="text-gray opacity-50 tailwind-logo mr-1">
+                      <img src="../public/img/react-logo.png" alt="react Logo" class="text-gray opacity-50 react-logo mr-2">
                     </div>
                   </div>
                 </div>
