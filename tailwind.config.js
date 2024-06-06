@@ -1,4 +1,6 @@
 /** @type {import('tailwindcss').Config} */
+import animations from '@midudev/tailwind-animations'
+
 export default {
   content: [
     "./components/**/*.{js,vue,ts}",
@@ -8,6 +10,7 @@ export default {
     "./app.vue",
     "./error.vue",
   ],
+  plugins: [animations],
   theme: {
     extend: {
       fontFamily: {
