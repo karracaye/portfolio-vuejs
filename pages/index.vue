@@ -2,7 +2,7 @@
       <div class="container h-screen mt-[5rem] relative z-20">
         <div class="text-white w-screen d-flex justify-center items-center">
           <div class="d-flex items-center justify-center text-center mt-[22rem]">
-            <p class="text-[12rem] text-white font-Amsterdam me-name">Karra Caye</p>
+            <p class="text-[12rem] text-white font-babylonica me-name">Karra Caye</p>
             <p class="text-2xl leading-8">FRONT-END DEVELOPER & UI/UX DESIGNER</p>
             <p class="text-md opacity-80 mt-4">Behind every outstanding design lies a captivating story. <br> As I invest myself in my work, its success grows.</p>
             <div class="w-screen justify-center  flex align-middle self-center space-x-3 mt-8 p-1">
@@ -82,7 +82,8 @@
           </div>
         </div>
         <div class="grid grid-cols-2 md:grid-cols-2 gap-6 p-12 -mt-[4rem]">
-          <div class="relative">
+
+          <a href="/document" class="relative">
             <img src="../public/img/MOCK UP 02.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
@@ -93,7 +94,8 @@
               <p class="text-sm font-extralight text-white p-2">DOCUMENT</p>
               <p class="text-sm font-extralight text-white p-2">MOBILE</p>
             </div>
-          </div>
+          </a>
+
           <div class="relative">
             <img src="../public/img/MOCK UP - 01.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
