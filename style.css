@@ -301,3 +301,53 @@
     /* margin-bottom: 0em; */
   }
 }
+.document {
+  padding: 128px;
+  justify-content: flex-start;
+}
+.document-details {
+  padding: 20rem 10px;
+  justify-content: flex-start;
+}
+
+
+
+.box-document {
+  width: 40%; 
+  padding: 14px;
+  background-color: rgba(93, 87, 87, 0.1); 
+  border: 1px solid #e3e3e312;
+  margin-right: 30px;
+  align-items: center;
+}
+.more-details {
+  display: flex;
+  align-items: center;
+}
+
+.circle {
+  width: 40px; 
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.033); 
+  border: 1px solid rgba(93, 93, 93, 0.5); 
+  border-radius: 50%;
+  margin-right: 10px; 
+}
+.document-photo{
+  border: 1px solid #353333;
+  border-radius: 2px;
+}
+.box-text{
+  background-color: rgba(93, 87, 87, 0.1); 
+  border: 1px solid #e3e3e312;
+  align-items:center;
+  padding: 3.5rem;
+}
+.circle-detail {
+  width: 40px; 
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.033); 
+  border: 1px solid rgba(93, 93, 93, 0.5); 
+  border-radius: 50%;
+  margin-right: 10px; 
+}
