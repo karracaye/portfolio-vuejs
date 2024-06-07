@@ -1,5 +1,5 @@
 <template>
-      <div class="container h-screen mt-[5rem] relative z-20">
+      <div class="container md:h-screen md:mt-[5rem] relative z-20">
         <div class="text-white w-screen d-flex justify-center items-center">
           <div class="d-flex items-center justify-center text-center mt-[22rem]">
             <p class="text-[12rem] text-white font-babylonica me-name">Karra Caye</p>
