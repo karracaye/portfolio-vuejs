@@ -112,28 +112,28 @@
             </div>    
         </div>
         <div class="px-[80px]">
-            <p class="text-6xl mb-3 opacity-70 text-white">MY PAST PROJECTS</p>
-            <p class="text-lg mb-10 text-white opacity-30">I use a modular design approach to create a web design system that ensures </p>
+            <p class="text-6xl mb-6 opacity-70 font-thin text-white">GALLERY</p>
+            <p class="text-lg mb-10 font-thin text-white opacity-30">Step into the visual narrative of success as you peruse through the gallery showcasing a tapestry of past clients. Each frame encapsulates a unique story of collaboration, dedication, and achievement.  </p>
 
             <div class="grid grid-cols-4 gap-4 mb-4 galleries">
-                <div class="h-[250px] overflow-hidden rounded-lg">
+                <div class="h-[250px] overflow-hidden rounded-xs">
                     <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
                 </div>
-                <div class="h-[250px] overflow-hidden rounded-lg">
+                <div class="h-[250px] overflow-hidden rounded-xs">
                     <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
                 </div>
-                <div class="col-span-2 h-[250px] overflow-hidden rounded-lg">
+                <div class="col-span-2 h-[250px] overflow-hidden rounded-xs">
                     <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
                 </div>
             </div>
             <div class="grid grid-cols-5 gap-4 galleries">
-                <div class="col-span-2 h-[250px] overflow-hidden rounded-lg">
+                <div class="col-span-2 h-[250px] overflow-hidden rounded-xs">
                     <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
                 </div>
-                <div class="h-[250px] overflow-hidden rounded-lg">
+                <div class="h-[250px] overflow-hidden rounded-xs">
                     <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
                 </div>
-                <div class="col-span-2 h-[250px] overflow-hidden rounded-lg">
+                <div class="col-span-2 h-[250px] overflow-hidden rounded-xs">
                     <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
                 </div>
             </div>
