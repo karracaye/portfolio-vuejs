@@ -365,3 +365,7 @@
   background-color: rgba(93, 87, 87, 0.1); 
   border: 1px solid #292727ea;
 }
+
+.galleries > div{
+  border: 1px solid #555555;
+}
