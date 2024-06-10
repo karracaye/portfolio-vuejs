@@ -78,7 +78,7 @@
             <div class="circle glass-effect">
               <i class="fas fa-arrow-right"></i>
             </div>
-            <p class="text-xs ml-2">SEE ALL</p>
+            <a href="/seeall" class="text-xs ml-2">SEE ALL</a>
           </div>
         </div>
         <div class="grid grid-cols-2 md:grid-cols-2 gap-6 p-12 -mt-[4rem]">
