@@ -1,13 +1,12 @@
 <template>
     <div class="h-max w-screen bg-[#191919] mt-[-2.5rem] relative overflow-hidden">
       <div class="document text-center top-0 left-0 right-0">
-        <p class="text-white text-8xl font-thin mb-5">BENEA</p>
-        <p class="text-white text-lg font-thin opacity-50 mb-4">"Building Beyond, Crafting Your Future Home"</p>
-        <p class="text-white text-lg font-thin opacity-50">Our highly experienced painters at Benea Painting Contractors can transform any space for you. <br> Dedicated to making sure that you are completely satisfied and happy with our prices and the quality of our results.</p>
+        <p class="text-white text-8xl font-thin mb-5">JCI</p>
+        <p class="text-white text-lg font-thin opacity-50 mb-4">"JCI’s new Global Leadership Masterclass series follows a talented pool of professional coaches as they break down the key concepts that make an enterprising young leader. Each course is based around one of JCI’s Four Areas of Opportunity: Business and Entrepreneurship, Individual Development, Community Action and International Cooperation."</p>
         <div class=" flex justify-center items-center mt-[5rem]">
           <div class="box-document flex flex-col items-center justify-center mb-60">
             <p class="text-white text-sm font-thin mb-1">CLIENT</p>
-            <p class="text-white text-sm font-thin opacity-50">Benea Painting Ltd.</p>
+            <p class="text-white text-sm font-thin opacity-50">JCI Manila</p>
           </div>
           <div class="box-document flex flex-col items-center justify-center mb-60">
             <p class="text-white text-sm font-thin mb-1">TIMELINE</p>
@@ -26,7 +25,7 @@
             <div class="circle"></div>
                 <p class="text-white text-xs font-thin opacity-50 ml-2">MORE DETAILS</p>
             </div>
-            <img  src="../public/img/BENEA.png" alt="Document Photo 1" class="document-photo w-full document-photo mb-[6rem]">
+            <img  src="../public/img/JCI-Mockup01.jpg" alt="Document Photo 1" class="document-photo w-full document-photo mb-[6rem]">
             <div class="grid grid-cols-2 mt-10 gap-4">
             <!-- Left side -->
             <div v-if="sticky" class="text-white text-sm font-thin text-left transition-all sticky">

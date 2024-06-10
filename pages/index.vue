@@ -108,7 +108,7 @@
               <p class="text-sm font-extralight text-white p-2">WEB DESIGN</p>
             </div>
           </a>
-          <div class="relative">
+          <a href="/jci" class="relative">
             <img src="../public/img/MOCK UP-03.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
@@ -119,7 +119,7 @@
               <p class="text-sm font-extralight text-white p-2">JCI</p>
               <p class="text-sm font-extralight text-white p-2">WEB DESIGN</p>
             </div>
-          </div>
+          </a>
           <div class="relative">
             <img src="../public/img/MOCK UP- 04.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
