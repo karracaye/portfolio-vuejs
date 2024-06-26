@@ -101,7 +101,16 @@
                         <p class="text-sm font-extralight text-white p-2">WEB DESIGN</p>
                     </div>
                 </div>
+                <div class="w-full col-span-2 flex-col">
+                    <div class="flex justify-center flex-col items-center">
+                        <div class="box max-w-md w-96 right-box">
+                        </div>
+                        <div class=" works-desc">
+                            <p>Your works define not only who you are, but also the intelligence of the art within you."</p>
+                        </div>
+                    </div>
             </div>
         </div>
     </div>
+</div>
 </template>
