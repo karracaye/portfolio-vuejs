@@ -105,7 +105,7 @@
                     <div class="flex justify-center flex-col items-center">
                         <div class="box max-w-md w-96 right-box">
                         </div>
-                        <div class=" works-desc">
+                        <div class=" absolute works-desc text-4xl font-extralight">
                             <p>Your works define not only who you are, but also the intelligence of the art within you."</p>
                         </div>
                     </div>

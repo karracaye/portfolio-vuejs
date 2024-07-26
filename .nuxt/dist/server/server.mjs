@@ -1,1 +1,1 @@
-export { default } from "file:///Users/apple/Documents/portfolio-vuejs/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
+export { default } from "file:///Users/karracayesantillan/portfolio-vuejs/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
