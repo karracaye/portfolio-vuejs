@@ -66,7 +66,7 @@
                     </div>
                 </div>
                 <div class="relative">
-                    <img src="../public/img/mockup6.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
+                    <img src="../public/img/Mockup6.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
                     <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
                         <div class="circle glassy">
                         <i class="fas fa-arrow-right text-gray"></i>
