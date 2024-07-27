@@ -1,11 +1,11 @@
 <template>
       <div class="container md:h-screen md:mt-[5rem] relative z-20">
         <div class="text-white w-screen d-flex justify-center items-center">
-          <div class="d-flex items-center justify-center text-center mt-[22rem]">
+          <div class="d-flex items-center justify-center text-center mt-[22rem] ">
             <p class="text-[12rem] text-white font-babylonica me-name">Karra Caye</p>
-            <p class="text-2xl leading-8">FRONT-END DEVELOPER & UI/UX DESIGNER</p>
-            <p class="text-md opacity-80 mt-4">Behind every outstanding design lies a captivating story. <br> As I invest myself in my work, its success grows.</p>
-            <div class="w-screen justify-center  flex align-middle self-center space-x-3 mt-8 p-1">
+            <p class="text-2xl leading-8 dev-font">FRONT-END DEVELOPER & UI/UX DESIGNER</p>
+            <p class="text-md opacity-80 mt-4 dev-font-des">Behind every outstanding design lies a captivating story. <br> As I invest myself in my work, its success grows.</p>
+            <div class="icons-media w-screen justify-center flex align-middle self-center space-x-3 mt-8 p-1">
                 <a href="https://github.com/karracaye" class="bg-white w-10 h-10 flex items-center justify-center p-2 rounded-full transition-transform duration-700 ease-in-out transform hover:scale-110">
                   <i class="fab fa-github text-black"></i>
                 </a>
@@ -20,7 +20,7 @@
         </div>
         <div class="h-max w-screen bg-[#191919]">
           <LogoCarousel />
-        <div class="text-white grid grid-cols-3 p-12">
+        <div class="boxes text-white grid grid-cols-3 p-12">
           <div class="box">
             <div class="content">
               <h2 class="text-xs mb-2 opacity-50">01</h2>
@@ -70,7 +70,7 @@
             </div>
           </div>
         </div>
-        <div class="text-white font-extralight flex justify-between items-center mt-8 p-16">
+        <div class=" all-works text-white font-extralight flex justify-between items-center mt-8 p-16">
           <div>
             <p class="text-4xl opacity-75">Selected Work</p>
           </div>

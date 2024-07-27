@@ -55,15 +55,19 @@ export default {
 <style scoped>
 .logo-carousel-container {
   overflow: hidden;
+  white-space: nowrap;
 }
 
 .logo-carousel {
   display: flex;
-  animation: scroll 20s linear infinite; 
+  flex-wrap: nowrap;
+  align-items: center;
+  animation: scroll 20s linear infinite;
 }
 
 .logo-carousel img {
   margin-right: 20px;
+  display: inline-block;
 }
 
 @keyframes scroll {
@@ -75,4 +79,18 @@ export default {
   }
 }
 
+@media (max-width: 768px) {
+  .logo-carousel img {
+    margin-right: 10px; /* Adjust spacing for smaller screens */
+    width: 70px; /* Adjust image sizes for smaller screens */
+    height: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .logo-carousel img {
+    width: 50px; /* Further adjust image sizes for very small screens */
+    height: auto;
+  }
+}
 </style>
