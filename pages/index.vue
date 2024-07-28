@@ -81,7 +81,7 @@
             <a href="/seeall" class="text-xs ml-2">SEE ALL</a>
           </div>
         </div>
-        <div class="grid grid-cols-2 md:grid-cols-2 gap-6 p-12 -mt-[4rem]">
+        <div class="selected-works-result grid grid-cols-2 md:grid-cols-2 gap-6 p-12 -mt-[4rem]">
 
           <a href="/document" class="relative">
             <img src="../public/img/MOCK UP 02.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">

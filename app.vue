@@ -3,7 +3,7 @@
     <div v-if="$route.path === '/'" class="h-screen w-screen absolute main-image"></div>
 
     <header class="font-jakartSans w-screen flex items-center justify-center p-5 h-[2rem] z-[9999] relative ">
-      <div class="glass-container fix-this ">
+      <div class="glass-container fix-this">
         <div class="logo w-16 h-16 p-3 hidden lg:block">
           <img src="./public/img/K.png " alt="K" border="0">
         </div>

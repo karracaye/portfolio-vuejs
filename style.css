@@ -7,7 +7,6 @@
     font-family: 'Amsterdam';
     src: url('../assets/fonts/amsterdam.woff2') format('woff2'),
          url('../assets/fonts/amsterdam.woff') format('woff');
-    /* Add additional font formats if available */
     font-weight: normal;
     font-style: normal;
   }
@@ -48,11 +47,11 @@
   .all-works {
     flex-direction: column;
     text-align: center;
-    padding: 1rem; /* Adjust padding for mobile */
+    padding: 1rem; 
   }
 
   .all-works .text-4xl {
-    font-size: 40px; /* Adjust font size for mobile */
+    font-size: 40px; 
   }
 
   .all-works .circle {
@@ -62,7 +61,7 @@
 
   .all-works .ml-2 {
     margin-left: 0;
-    margin-top: 0.5rem; /* Add margin-top for spacing in mobile view */
+    margin-top: 0.5rem; 
   }
 
  
@@ -75,7 +74,6 @@
     background: rgba(100, 100, 100, 0.2);
     backdrop-filter: blur(10px);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    /* padding: 20px; */
     padding-top: 2px;
     padding-bottom: 2px;
     padding-left: 20px;
@@ -346,12 +344,12 @@
   from{
     opacity: 0;
     transform: translateY(150px);
-    /* margin-bottom: -3em; */
+    
   }
   to{
     opacity: 1;
     transform: translateY(0px);
-    /* margin-bottom: 0em; */
+   
   }
 }
 .document {
