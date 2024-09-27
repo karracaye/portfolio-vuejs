@@ -1,7 +1,7 @@
 <template>
     <div class="h-max w-screen bg-[#191919] mt-[-2.5rem] relative overflow-hidden">
       <div class="document text-center top-0 left-0 right-0">
-        <p class="text-white text-8xl font-thin mb-5">Document</p>
+        <p class="text-white text-8xl font-thin mb-5">Legal Document</p>
         <p class="text-white text-lg font-thin opacity-50">Legal Document streamlines legal document creation, management, and storage <br>with a user-friendly interface and robust features, simplifying the complex and <br>time-consuming process of drafting agreements, contracts, and forms.</p>
         <div class=" flex justify-center items-center mt-[5rem]">
           <div class="box-document flex flex-col items-center justify-center mb-60">

@@ -12,7 +12,7 @@
                         </div>
                     </div>
                     <div class="absolute bottom-0 left-0 right-0 bg-gray-300 bg-opacity-80 p-3 m-10 flex justify-between gallery-info">
-                        <p class="text-sm font-extralight text-white p-2">DOCUMENT</p>
+                        <p class="text-sm font-extralight text-white p-2">LEGAL DOCUMENT</p>
                         <p class="text-sm font-extralight text-white p-2">MOBILE</p>
                     </div>
                     </a>
@@ -78,34 +78,32 @@
                     </div>
                 </div>
                 <div class="relative">
-                    <img src="../public/img/Lawsys-calendar.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
+                    <img src="../public/img/LAWSYS.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
                     <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
                         <div class="circle glassy">
                         <i class="fas fa-arrow-right text-gray"></i>
                         </div>
                     </div>
                     <div class="absolute bottom-0 left-0 right-0 bg-gray-300 bg-opacity-80 p-3 m-10 flex justify-between gallery-info">
-                        <p class="text-sm font-extralight text-white p-2">SOCIAL MEDIA POSTER</p>
-                        <p class="text-sm font-extralight text-white p-2">GRAPHIC DESIGN</p>
+                        <p class="text-sm font-extralight text-white p-2">LAWFIRM MANAGEMENT SYSTEM</p>
+                        <p class="text-sm font-extralight text-white p-2">WEB DESIGN</p>
                     </div>
                 </div>
                 <div class="relative">
-                    <img src="../public/img/mockup6.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
+                    <img src="../public/img/freelance.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
                     <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
                         <div class="circle glassy">
                         <i class="fas fa-arrow-right text-gray"></i>
                         </div>
                     </div>
                     <div class="absolute bottom-0 left-0 right-0 bg-gray-300 bg-opacity-80 p-3 m-10 flex justify-between gallery-info">
-                        <p class="text-sm font-extralight text-white p-2">ACCOUNTING</p>
+                        <p class="text-sm font-extralight text-white p-2">GAWA</p>
                         <p class="text-sm font-extralight text-white p-2">WEB DESIGN</p>
                     </div>
                 </div>
                 <div class="w-full col-span-2 flex-col">
-                    <div class="flex justify-center flex-col items-center">
-                        <div class="box max-w-md w-96 right-box">
-                        </div>
-                        <div class=" absolute works-desc text-4xl font-extralight">
+                    <div class="flex justify-center flex-col items-center ">
+                        <div class=" absolute works-desc text-2xl font-extralight">
                             <p>Your works define not only who you are, but also the intelligence of the art within you."</p>
                         </div>
                     </div>

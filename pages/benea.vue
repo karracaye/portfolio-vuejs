@@ -18,8 +18,8 @@
             <p class="text-white text-sm font-thin opacity-50"> Web Design </p>
           </div>
           <div class="box-document flex flex-col items-center justify-center mb-60">
-            <p class="text-white text-sm font-thin mb-1">WEBSITE</p>
-            <p class="text-white text-sm font-thin opacity-50">Not release</p>
+            <p class="text-white text-sm font-thin mb-1">UI LINK</p>
+            <p class="text-white text-sm font-thin opacity-50">https://rb.gy/2z5kl6</p>
           </div>
         </div>
         <div class="more-details flex justify-center items-center mt-[-10rem] mb-7">
