@@ -26,7 +26,7 @@
             <div class="circle"></div>
                 <p class="text-white text-xs font-thin opacity-50 ml-2">MORE DETAILS</p>
             </div>
-            <img  src="../img/BENEA.png" alt="Document Photo 1" class="document-photo w-full document-photo mb-[6rem]">
+            <img  src="../public/img/BENEA.png" alt="Document Photo 1" class="document-photo w-full document-photo mb-[6rem]">
             <div class="grid grid-cols-2 mt-10 gap-4">
             <!-- Left side -->
             <div v-if="sticky" class="text-white text-sm font-thin text-left transition-all sticky">
