@@ -1,41 +1,121 @@
 const client_manifest = {
-  "_CEwAsWe4.js": {
+  "_Bqx1JtWW.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "CEwAsWe4.js",
+    "file": "Bqx1JtWW.js",
+    "name": "JCI-Mockup01",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "assets": [
+      "JCI-Mockup01.BdX8LGAL.jpg"
+    ]
+  },
+  "JCI-Mockup01.BdX8LGAL.jpg": {
+    "file": "JCI-Mockup01.BdX8LGAL.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "_C2Oqhi5p.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "C2Oqhi5p.js",
     "name": "vue.f36acd1f",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
   },
-  "_Cq48amD6.js": {
+  "_CF1yLnz3.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "Cq48amD6.js",
+    "file": "CF1yLnz3.js",
+    "name": "mock-up-social-media",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "assets": [
+      "mock-up-social-media.BF0PROEq.png"
+    ]
+  },
+  "mock-up-social-media.BF0PROEq.png": {
+    "file": "mock-up-social-media.BF0PROEq.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "_CMLZ0siv.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CMLZ0siv.js",
+    "name": "MOCK UP-03",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "assets": [
+      "MOCK UP-03.BXHfwmcx.png"
+    ]
+  },
+  "MOCK UP-03.BXHfwmcx.png": {
+    "file": "MOCK UP-03.BXHfwmcx.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "_CpdDdVvM.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CpdDdVvM.js",
+    "name": "BENEA",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "assets": [
+      "BENEA.h3m6ufRe.png"
+    ]
+  },
+  "BENEA.h3m6ufRe.png": {
+    "file": "BENEA.h3m6ufRe.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "_Hms0gNsJ.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Hms0gNsJ.js",
     "name": "footer",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
   },
-  "_D-x7Yoz9.js": {
+  "__K42hSnL.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "D-x7Yoz9.js",
-    "name": "MOCK UP- 04",
+    "file": "_K42hSnL.js",
+    "name": "lawsys",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "assets": [
       "MOCK UP 02.BnF2uFc-.png",
       "MOCK UP - 01.rATBP_h4.png",
-      "MOCK UP-03.BXHfwmcx.png",
-      "MOCK UP- 04.U1uhlLHk.png"
+      "MOCK UP- 04.U1uhlLHk.png",
+      "lawsys.DRdfQj4F.png"
     ]
   },
   "MOCK UP 02.BnF2uFc-.png": {
@@ -50,14 +130,14 @@ const client_manifest = {
     "prefetch": true,
     "mimeType": "image/png"
   },
-  "MOCK UP-03.BXHfwmcx.png": {
-    "file": "MOCK UP-03.BXHfwmcx.png",
+  "MOCK UP- 04.U1uhlLHk.png": {
+    "file": "MOCK UP- 04.U1uhlLHk.png",
     "resourceType": "image",
     "prefetch": true,
     "mimeType": "image/png"
   },
-  "MOCK UP- 04.U1uhlLHk.png": {
-    "file": "MOCK UP- 04.U1uhlLHk.png",
+  "lawsys.DRdfQj4F.png": {
+    "file": "lawsys.DRdfQj4F.png",
     "resourceType": "image",
     "prefetch": true,
     "mimeType": "image/png"
@@ -115,13 +195,13 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "Dq2D7-uB.js",
+    "file": "BLgdVD4h.js",
     "name": "error-404",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_CEwAsWe4.js"
+      "_C2Oqhi5p.js"
     ],
     "css": []
   },
@@ -136,12 +216,12 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DOkFqkmd.js",
+    "file": "DvefRJNE.js",
     "name": "error-500",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_CEwAsWe4.js",
+      "_C2Oqhi5p.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "css": []
@@ -157,7 +237,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "BZh8QU-C.js",
+    "file": "DBGTLdO6.js",
     "name": "entry",
     "src": "node_modules/nuxt/dist/app/entry.js",
     "isEntry": true,
@@ -181,18 +261,16 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "BOWqxmJg.js",
+    "file": "BQwP9eHq.js",
     "name": "benea",
     "src": "pages/benea.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Cq48amD6.js",
+      "_Hms0gNsJ.js",
+      "_CpdDdVvM.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
-    "css": [],
-    "assets": [
-      "BENEA.h3m6ufRe.png"
-    ]
+    "css": []
   },
   "benea.KqI1W_Kx.css": {
     "file": "benea.KqI1W_Kx.css",
@@ -200,28 +278,22 @@ const client_manifest = {
     "prefetch": true,
     "preload": true
   },
-  "BENEA.h3m6ufRe.png": {
-    "file": "BENEA.h3m6ufRe.png",
-    "resourceType": "image",
-    "prefetch": true,
-    "mimeType": "image/png"
-  },
   "pages/document.vue": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DvoW2m7t.js",
+    "file": "CWc7HPpB.js",
     "name": "document",
     "src": "pages/document.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Cq48amD6.js",
+      "_Hms0gNsJ.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "css": [],
     "assets": [
-      "document-photo2.-xN-3bxy.png"
+      "phone.-xN-3bxy.png"
     ]
   },
   "document.BWIzGy_Q.css": {
@@ -230,8 +302,8 @@ const client_manifest = {
     "prefetch": true,
     "preload": true
   },
-  "document-photo2.-xN-3bxy.png": {
-    "file": "document-photo2.-xN-3bxy.png",
+  "phone.-xN-3bxy.png": {
+    "file": "phone.-xN-3bxy.png",
     "resourceType": "image",
     "prefetch": true,
     "mimeType": "image/png"
@@ -241,17 +313,18 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "CQrdvGrM.js",
+    "file": "B0MLlPWV.js",
     "name": "index",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Cq48amD6.js",
-      "_D-x7Yoz9.js",
+      "_Hms0gNsJ.js",
+      "__K42hSnL.js",
+      "_CMLZ0siv.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "css": [
-      "index.D7HPj2lC.css"
+      "index.C9Usrcas.css"
     ],
     "assets": [
       "figma-transparent.B5QlU38J.png",
@@ -265,13 +338,12 @@ const client_manifest = {
       "white-intelliseven.CUCCA_0x.png",
       "hotel carlito.BwHhomX-.png",
       "GPA.MgI-iGxV.png",
-      "lawsys.DRdfQj4F.png",
       "75-anniv-logo.D_AshRW2.png",
       "INNOVEX 1.DdNc4N0r.png"
     ]
   },
-  "index.D7HPj2lC.css": {
-    "file": "index.D7HPj2lC.css",
+  "index.C9Usrcas.css": {
+    "file": "index.C9Usrcas.css",
     "resourceType": "style",
     "prefetch": true,
     "preload": true
@@ -342,12 +414,6 @@ const client_manifest = {
     "prefetch": true,
     "mimeType": "image/png"
   },
-  "lawsys.DRdfQj4F.png": {
-    "file": "lawsys.DRdfQj4F.png",
-    "resourceType": "image",
-    "prefetch": true,
-    "mimeType": "image/png"
-  },
   "75-anniv-logo.D_AshRW2.png": {
     "file": "75-anniv-logo.D_AshRW2.png",
     "resourceType": "image",
@@ -365,12 +431,12 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "BjVayWIQ.js",
+    "file": "D3sk1T7T.js",
     "name": "innovex",
     "src": "pages/innovex.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Cq48amD6.js",
+      "_Hms0gNsJ.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "css": [],
@@ -390,23 +456,35 @@ const client_manifest = {
     "prefetch": true,
     "mimeType": "image/png"
   },
+  "pages/inquiry.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DdKULdKb.js",
+    "name": "inquiry",
+    "src": "pages/inquiry.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Hms0gNsJ.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
   "pages/jci.vue": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "CSf7KW3Q.js",
+    "file": "C_uUacjL.js",
     "name": "jci",
     "src": "pages/jci.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Cq48amD6.js",
+      "_Hms0gNsJ.js",
+      "_Bqx1JtWW.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
-    "css": [],
-    "assets": [
-      "JCI-Mockup01.BdX8LGAL.jpg"
-    ]
+    "css": []
   },
   "jci.bx-gD3nS.css": {
     "file": "jci.bx-gD3nS.css",
@@ -414,18 +492,12 @@ const client_manifest = {
     "prefetch": true,
     "preload": true
   },
-  "JCI-Mockup01.BdX8LGAL.jpg": {
-    "file": "JCI-Mockup01.BdX8LGAL.jpg",
-    "resourceType": "image",
-    "prefetch": true,
-    "mimeType": "image/jpeg"
-  },
   "pages/moredetails.vue": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "BZo30Rs9.js",
+    "file": "DH42jEWu.js",
     "name": "moredetails",
     "src": "pages/moredetails.vue",
     "isDynamicEntry": true,
@@ -461,38 +533,62 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "BJzRorar.js",
+    "file": "BB_DHw_6.js",
     "name": "portfolio",
     "src": "pages/portfolio.vue",
     "isDynamicEntry": true,
     "imports": [
-      "node_modules/nuxt/dist/app/entry.js"
+      "_CpdDdVvM.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "__K42hSnL.js",
+      "_CF1yLnz3.js",
+      "_Bqx1JtWW.js"
+    ],
+    "assets": [
+      "JCI-Mockup02.D6hhP3K0.jpg",
+      "Lawsys-calendar.Bt6qmUpM.png",
+      "phone.-xN-3bxy.png",
+      "Document-photo1.MWP9eqnJ.png"
     ]
+  },
+  "JCI-Mockup02.D6hhP3K0.jpg": {
+    "file": "JCI-Mockup02.D6hhP3K0.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "Lawsys-calendar.Bt6qmUpM.png": {
+    "file": "Lawsys-calendar.Bt6qmUpM.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "Document-photo1.MWP9eqnJ.png": {
+    "file": "Document-photo1.MWP9eqnJ.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
   },
   "pages/seeall.vue": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "CaJWI_U5.js",
+    "file": "ltj57Pm5.js",
     "name": "seeall",
     "src": "pages/seeall.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_D-x7Yoz9.js",
+      "_Hms0gNsJ.js",
+      "__K42hSnL.js",
+      "_CMLZ0siv.js",
+      "_CF1yLnz3.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "assets": [
-      "mock-up-social-media.BF0PROEq.png",
       "Mockup6.CmmnlLBQ.png",
       "freelance.CRjG7_2h.png"
     ]
-  },
-  "mock-up-social-media.BF0PROEq.png": {
-    "file": "mock-up-social-media.BF0PROEq.png",
-    "resourceType": "image",
-    "prefetch": true,
-    "mimeType": "image/png"
   },
   "Mockup6.CmmnlLBQ.png": {
     "file": "Mockup6.CmmnlLBQ.png",
@@ -520,19 +616,19 @@ const client_manifest = {
     "file": "BENEA.h3m6ufRe.png",
     "src": "public/img/BENEA.png"
   },
-  "public/img/Background-Karra.png": {
-    "resourceType": "image",
-    "prefetch": true,
-    "mimeType": "image/png",
-    "file": "Background-Karra.yWKoZt26.png",
-    "src": "public/img/Background-Karra.png"
-  },
   "public/img/Caye.png": {
     "resourceType": "image",
     "prefetch": true,
     "mimeType": "image/png",
     "file": "Caye.Bzooeish.png",
     "src": "public/img/Caye.png"
+  },
+  "public/img/Document-photo1.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "Document-photo1.MWP9eqnJ.png",
+    "src": "public/img/Document-photo1.png"
   },
   "public/img/GPA.png": {
     "resourceType": "image",
@@ -555,12 +651,26 @@ const client_manifest = {
     "file": "JCI-Mockup01.BdX8LGAL.jpg",
     "src": "public/img/JCI-Mockup01.jpg"
   },
+  "public/img/JCI-Mockup02.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "JCI-Mockup02.D6hhP3K0.jpg",
+    "src": "public/img/JCI-Mockup02.jpg"
+  },
   "public/img/K.png": {
     "resourceType": "image",
     "prefetch": true,
     "mimeType": "image/png",
     "file": "K.4zf_H-Qg.png",
     "src": "public/img/K.png"
+  },
+  "public/img/Lawsys-calendar.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "Lawsys-calendar.Bt6qmUpM.png",
+    "src": "public/img/Lawsys-calendar.png"
   },
   "public/img/MACBOOK.png": {
     "resourceType": "image",
@@ -629,8 +739,8 @@ const client_manifest = {
     "resourceType": "image",
     "prefetch": true,
     "mimeType": "image/png",
-    "file": "document-photo2.-xN-3bxy.png",
-    "src": "public/img/document-photo2.png"
+    "file": "phone.-xN-3bxy.png",
+    "src": "public/img/phone.png"
   },
   "public/img/figma-transparent.png": {
     "resourceType": "image",
@@ -694,6 +804,13 @@ const client_manifest = {
     "mimeType": "image/jpeg",
     "file": "pf.D3y8UPP0.jpeg",
     "src": "public/img/pf.jpeg"
+  },
+  "public/img/phone.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "phone.-xN-3bxy.png",
+    "src": "public/img/phone.png"
   },
   "public/img/react-logo.png": {
     "resourceType": "image",

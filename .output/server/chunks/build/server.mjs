@@ -646,7 +646,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./benea-FlpwWUPi.mjs').then((m) => m.default || m)
+    component: () => import('./benea-CF-UlAmO.mjs').then((m) => m.default || m)
   },
   {
     name: "document",
@@ -654,7 +654,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./document-C2glZvO9.mjs').then((m) => m.default || m)
+    component: () => import('./document-CMKR0k5m.mjs').then((m) => m.default || m)
   },
   {
     name: "index",
@@ -662,7 +662,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./index-DWNiH_wz.mjs').then((m) => m.default || m)
+    component: () => import('./index-DRbiY0EK.mjs').then((m) => m.default || m)
   },
   {
     name: "innovex",
@@ -673,12 +673,20 @@ const _routes = [
     component: () => import('./innovex-DVWGNvC4.mjs').then((m) => m.default || m)
   },
   {
+    name: "inquiry",
+    path: "/inquiry",
+    meta: {},
+    alias: [],
+    redirect: void 0 ,
+    component: () => import('./inquiry-9pt7VjDx.mjs').then((m) => m.default || m)
+  },
+  {
     name: "jci",
     path: "/jci",
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./jci-DImB2Ncw.mjs').then((m) => m.default || m)
+    component: () => import('./jci-CXnT6sMU.mjs').then((m) => m.default || m)
   },
   {
     name: "moredetails",
@@ -694,7 +702,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./portfolio-D9IjpjVG.mjs').then((m) => m.default || m)
+    component: () => import('./portfolio-QV0Kp8JG.mjs').then((m) => m.default || m)
   },
   {
     name: "seeall",
@@ -702,7 +710,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./seeall-CwfkkWu8.mjs').then((m) => m.default || m)
+    component: () => import('./seeall-BG1ciggh.mjs').then((m) => m.default || m)
   }
 ];
 const _wrapIf = (component, props, slots) => {
@@ -1496,7 +1504,7 @@ function _sfc_ssrRender(_ctx, _push, _parent, _attrs) {
     _push(`<!---->`);
   }
   _push(`<header class="font-jakartSans w-screen flex items-center justify-center p-5 h-[2rem] z-[9999] relative"><div class="glass-container fix-this"><div class="logo w-16 h-16 p-3 hidden lg:block"><img${ssrRenderAttr("src", _imports_0)} alt="K" border="0"></div><nav class="hidden lg:block"><ul class="flex space-x-10 items-center text-sm"><li>`);
-  _push(ssrRenderComponent(_component_NuxtLink, { to: "/index" }, {
+  _push(ssrRenderComponent(_component_NuxtLink, { to: "/" }, {
     default: withCtx((_, _push2, _parent2, _scopeId) => {
       if (_push2) {
         _push2(`HOME`);
@@ -1535,7 +1543,7 @@ function _sfc_ssrRender(_ctx, _push, _parent, _attrs) {
     _: 1
   }, _parent));
   _push(`</li><li class="bg-white px-3 py-2 text-black rounded-sm">`);
-  _push(ssrRenderComponent(_component_NuxtLink, { to: "/portfolio" }, {
+  _push(ssrRenderComponent(_component_NuxtLink, { to: "/inquiry" }, {
     default: withCtx((_, _push2, _parent2, _scopeId) => {
       if (_push2) {
         _push2(`LET&#39;S TALK`);
