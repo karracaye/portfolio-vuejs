@@ -662,7 +662,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./index-C7Ux7wYZ.mjs').then((m) => m.default || m)
+    component: () => import('./index-DWNiH_wz.mjs').then((m) => m.default || m)
   },
   {
     name: "innovex",
@@ -702,7 +702,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./seeall-ZtxewV61.mjs').then((m) => m.default || m)
+    component: () => import('./seeall-CwfkkWu8.mjs').then((m) => m.default || m)
   }
 ];
 const _wrapIf = (component, props, slots) => {
