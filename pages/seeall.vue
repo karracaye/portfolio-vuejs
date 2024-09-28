@@ -113,6 +113,3 @@
     <Footer />
 </div>
 </template>
-<script>
-    import lawsys from '@/public/lawsys.jpg'
-</script>
