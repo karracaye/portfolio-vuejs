@@ -6,22 +6,22 @@
       <div class="flex flex-wrap -mx-2 pt-10">
     <div class="w-full md:w-1/3 px-2 mb-4">
       <img
-        src="../public/img/BENEA.png"
+        src="/img/BENEA.png"
         class="w-full shadow-lg rounded mb-4"
         alt="Boat on Calm Water"
       />
       <img
-        src="../public/img/JCI-Mockup02.jpg"
+        src="/img/JCI-Mockup02.jpg"
         class="w-full shadow-lg rounded mb-4"
         alt="Wintry Mountain Landscape"
       />
       <img
-        src="../public/img/MOCK UP 02.png"
+        src="/img/MOCK UP 02.png"
         class="w-full shadow-lg rounded mb-4"
         alt="Wintry Mountain Landscape"
       />
       <img
-        src="../public/img/Lawsys.png"
+        src="/img/Lawsys.png"
         class="w-full shadow-lg rounded mb-4"
         alt="Wintry Mountain Landscape"
       />
@@ -29,22 +29,22 @@
 
     <div class="w-full md:w-1/3 px-2 mb-4">
       <img
-        src="../public/img/Lawsys-calendar.png"
+        src="/img/Lawsys-calendar.png"
         class="w-full shadow-lg rounded mb-4"
         alt="Mountains in the Clouds"
       />
       <img
-        src="../public/img/phone.png"
+        src="/img/phone.png"
         class="w-full shadow-lg rounded mb-4"
         alt="Boat on Calm Water"
       />
       <img
-        src="../public/img/mock-up-social-media.png"
+        src="/img/mock-up-social-media.png"
         class="w-full shadow-lg rounded mb-4"
         alt="Boat on Calm Water"
       />
       <img
-        src="../public/img/JCI-Mockup01.jpg"
+        src="/img/JCI-Mockup01.jpg"
         class="w-full shadow-lg rounded mb-4"
         alt="Boat on Calm Water"
       />
@@ -52,22 +52,22 @@
 
     <div class="w-full md:w-1/3 px-2 mb-4">
       <img
-        src="../public/img/MOCK UP - 01.png"
+        src="/img/MOCK UP - 01.png"
         class="w-full shadow-lg rounded mb-4"
         alt="Waves at Sea"
       />
       <img
-        src="../public/img/MOCK UP- 04.png"
+        src="/img/MOCK UP- 04.png"
         class="w-full shadow-lg rounded mb-4"
         alt="Yosemite National Park"
       />
       <img
-        src="../public/img/Document-photo1.png"
+        src="/img/Document-photo1.png"
         class="w-full shadow-lg rounded mb-4"
         alt="Yosemite National Park"
       />
       <img
-        src="../public/img/MOCK UP- 04.png"
+        src="/img/MOCK UP- 04.png"
         class="w-full shadow-lg rounded mb-4"
         alt="Yosemite National Park"
       />

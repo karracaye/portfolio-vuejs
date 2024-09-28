@@ -3,7 +3,7 @@
     <div class="container flex flex-col flex-wrap px-5 py-24 mx-auto md:items-center lg:items-start md:flex-row md:flex-no-wrap mt-28">
       <div class="flex-shrink-0 w-64 mx-auto text-center md:mx-0 md:text-left">
         <a class="flex items-center justify-center font-medium text-gray-900 title-font md:justify-start">
-          <img src='../public/img/K.png' alt="K" border="0" class="w-auto h-20">
+          <img src='/img/K.png' alt="K" border="0" class="w-auto h-20">
             </a>
             <div class="mt-10">
                 <span class="inline-flex justify-center mt-2 sm:ml-auto sm:mt-0 sm:justify-start">

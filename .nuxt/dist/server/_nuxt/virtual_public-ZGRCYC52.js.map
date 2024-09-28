@@ -1,0 +1,1 @@
+{"version":3,"file":"virtual_public-ZGRCYC52.js","sources":["../../../../virtual:public?%2Fimg%2FMOCK%20UP-03.png"],"sourcesContent":["import { publicAssetsURL } from '#internal/nuxt/paths';export default publicAssetsURL(\"/img/MOCK UP-03.png\")"],"names":[],"mappings":";AAAuD,MAAe,aAAA,gBAAgB,qBAAqB;"}

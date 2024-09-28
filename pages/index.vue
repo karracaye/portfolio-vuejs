@@ -84,7 +84,7 @@
         <div class="selected-works-result grid grid-cols-2 md:grid-cols-2 gap-6 p-12 -mt-[4rem]">
 
           <a href="/document" class="relative">
-            <img src="../public/img/MOCK UP 02.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
+            <img src="/img/MOCK UP 02.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
                 <i class="fas fa-arrow-right text-gray"></i>
@@ -97,7 +97,7 @@
           </a>
 
           <a href="/benea" class="relative">
-            <img src="../public/img/MOCK UP - 01.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
+            <img src="/img/MOCK UP - 01.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
                 <i class="fas fa-arrow-right text-gray"></i>
@@ -109,7 +109,7 @@
             </div>
           </a>
           <a href="/jci" class="relative">
-            <img src="../public/img/MOCK UP-03.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
+            <img src="/img/MOCK UP-03.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
                 <i class="fas fa-arrow-right text-gray"></i>
@@ -121,7 +121,7 @@
             </div>
           </a>
           <div class="relative">
-            <img src="../public/img/MOCK UP- 04.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
+            <img src="/img/MOCK UP- 04.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
             <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
               <div class="circle glassy">
                 <i class="fas fa-arrow-right text-gray"></i>
@@ -179,8 +179,8 @@
                     <h3 class="text-lg mb-3 opacity-75">THE CONCEPT & STRATEGY</h3>
                     <p class="text-sm mb-3 opacity-30"> We collaborate to develop a roadmap that merges your goals with your audience's needs. This roadmap guides the creation of initial wireframes and an interactive prototype, offering a clear vision of the website's layout and user experience.</p>
                     <div class="logo flex items-center">
-                    <img src="../public/img/figma-transparent.png" alt="Figma Logo" class="text-gray opacity-50 figma-logo">
-                    <img src="../public/img/XD.png" alt="xd Logo" class="text-gray opacity-50 xd-logo">
+                    <img src="/img/figma-transparent.png" alt="Figma Logo" class="text-gray opacity-50 figma-logo">
+                    <img src="/img/XD.png" alt="xd Logo" class="text-gray opacity-50 xd-logo">
                     </div>
                   </div>
                 </div>
@@ -223,10 +223,10 @@
                       <h3 class="text-lg mb-3 opacity-75">DEVELOPMENT</h3>
                       <p class="text-sm mb-3 opacity-30">Now, we infuse vitality into your refined design. Expect a bespoke website crafted with a modular web design system and seamless CMS integration. Elevate your online presence with captivating animations that distinguish you from the mundane competition.</p>
                       <div class="logo flex items-center">
-                      <img src="../public/img/nuxt.png" alt="nuxt Logo" class="text-gray opacity-50 nuxt-logo mr-2">
-                      <img src="../public/img/logo.png" alt="vue Logo" class="text-gray opacity-50 vue-logo mr-1">
-                      <img src="../public/img/screenshot_361-removebg-preview.png" alt="tailwind Logo" class="text-gray opacity-50 tailwind-logo mr-1">
-                      <img src="../public/img/react-logo.png" alt="react Logo" class="text-gray opacity-50 react-logo mr-2">
+                      <img src="/img/nuxt.png" alt="nuxt Logo" class="text-gray opacity-50 nuxt-logo mr-2">
+                      <img src="/img/logo.png" alt="vue Logo" class="text-gray opacity-50 vue-logo mr-1">
+                      <img src="/img/screenshot_361-removebg-preview.png" alt="tailwind Logo" class="text-gray opacity-50 tailwind-logo mr-1">
+                      <img src="/img/react-logo.png" alt="react Logo" class="text-gray opacity-50 react-logo mr-2">
                     </div>
                   </div>
                 </div>
@@ -293,7 +293,7 @@
                     <div class="testimonials h-30 w-96 justify-center items-center">
                       <div class="testimonial-content flex items-center">
                         <div class="testimonial-image m-1">
-                          <img src="../public/img/pf-4.jpeg" alt="Testimonial Image">
+                          <img src="/img/pf-4.jpeg" alt="Testimonial Image">
                         </div>
                         <div class="testimonial-text flex justify-between items-center w-full">
                           <p class="text-xs text-white font-thin opacity-70">This is a customer testimonial. It could be a comment about the product or service.</p>
@@ -308,7 +308,7 @@
                     <div class="test bottom h-[6rem] w-96 justify-center items-center">
                       <div class="testimonial-content flex items-center">
                         <div class="testimonial-image m-1">
-                          <img src="../public/img/pf.jpeg" alt="Testimonial Image">
+                          <img src="/img/pf.jpeg" alt="Testimonial Image">
                         </div>
                       <div class="testimonial-text flex justify-between items-center w-full">
                         <p class="text-xs text-white font-thin opacity-70">From the first conversation and idea exchanges on what and how to develop a website to our endless list of needs.</p>
@@ -328,9 +328,9 @@
               </div>
             </div>
           </div>
-          <div class="flex justify-between relative items-center mt-[19em]" style="background-image: url('../public/img/Caye.png');">
+          <div class="flex justify-between relative items-center mt-[19em]" style="background-image: url('/img/Caye.png');">
             <div class="about-me">
-              <img src="../public/img/Caye.png" height="200" width="200" alt="Background Image" class="w-full h-full">
+              <img src="/img/Caye.png" height="200" width="200" alt="Background Image" class="w-full h-full">
             </div>
             <div class="text-left desc-me pr-[15rem]">
               <p class="text-xs text-white font-thin opacity-50">ABOUT</p>

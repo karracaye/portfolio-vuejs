@@ -8,7 +8,7 @@
             <div class="circle-detail mt-"></div>
                 <p class="text-white text-xs font-thin opacity-50">MY SERVICES</p>
             </div>
-        <img  src="../public/img/MACBOOK.png" alt="Document Photo 1" class=" w-[130rem] mb-[6rem]">
+        <img  src="/img/MACBOOK.png" alt="Document Photo 1" class=" w-[130rem] mb-[6rem]">
         <div class=" flex justify-center items-center mt-[5rem]">
             <div class="more-details-info flex flex-col items-center justify-center mb-60">
             <p class="text-white text-sm font-thin mb-1 opacity-30">Clients</p>
@@ -31,7 +31,7 @@
             <div class="details-content text-left flex flex-col items-left justify-left mb-60">
                 <p class="text-white text-sm font-thin mb-5">WEB DESIGN</p>
                 <p class="text-white text-6xl font-thin opacity-50 mb-10">Transforming Your Ideas into Reality</p>
-                <img  src="../public/img/MOCKUP-2.png" alt="Document Photo 1" class="mockup3 w-full mb-[8rem]">
+                <img  src="/img/MOCKUP-2.png" alt="Document Photo 1" class="mockup3 w-full mb-[8rem]">
                 
                 <div class="flex flex-col gap-5">
                     <div class="grid grid-cols-4 mt-[-1rem] gap-4">
@@ -73,7 +73,7 @@
             <div class="details-content text-left flex flex-col items-left justify-left mb-60">
                 <p class="text-white text-sm font-thin mb-5">DEVELOPMENT</p>
                 <p class="text-white text-6xl font-thin opacity-50 mb-10">Developing High-Performance Websites and Web Applications</p>
-                <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="mockup3 w-full mb-[8rem]">
+                <img  src="/img/MOCKUP-3.jpg" alt="Document Photo 1" class="mockup3 w-full mb-[8rem]">
                 
                 <div class="flex flex-col gap-5">
                     <div class="grid grid-cols-4 mt-[-1rem] gap-4">
@@ -117,24 +117,24 @@
 
             <div class="grid grid-cols-4 gap-4 mb-4 galleries">
                 <div class="h-[250px] overflow-hidden rounded-xs">
-                    <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
+                    <img  src="/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
                 </div>
                 <div class="h-[250px] overflow-hidden rounded-xs">
-                    <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
+                    <img  src="/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
                 </div>
                 <div class="col-span-2 h-[250px] overflow-hidden rounded-xs">
-                    <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
+                    <img  src="/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
                 </div>
             </div>
             <div class="grid grid-cols-5 gap-4 galleries">
                 <div class="col-span-2 h-[250px] overflow-hidden rounded-xs">
-                    <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
+                    <img  src="/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
                 </div>
                 <div class="h-[250px] overflow-hidden rounded-xs">
-                    <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
+                    <img  src="/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
                 </div>
                 <div class="col-span-2 h-[250px] overflow-hidden rounded-xs">
-                    <img  src="../public/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
+                    <img  src="/img/MOCKUP-3.jpg" alt="Document Photo 1" class="w-100">
                 </div>
             </div>
         </div>
