@@ -114,5 +114,5 @@
 </div>
 </template>
 <script>
-    import lawsys from '@/public/img/lawsys.png'
+    import lawsys from '@/public/lawsys.jpg'
 </script>
