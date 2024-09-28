@@ -88,7 +88,7 @@
 }
 
 .main-image{
-    background-image: url("./public/img/Background-Karra.png");
+    background-image: url("./img/Background-Karra.png");
     background-size: cover;
     background-position: center;
 }

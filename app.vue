@@ -9,10 +9,10 @@
         </div>
         <nav class="hidden lg:block">
           <ul class="flex space-x-10 items-center text-sm">
-            <li><NuxtLink to="/index">HOME</NuxtLink></li>
+            <li><NuxtLink to="/">HOME</NuxtLink></li>
             <li><NuxtLink to="/seeall">WORK</NuxtLink></li>
             <li><NuxtLink to="/portfolio">GALLERY</NuxtLink></li>
-            <li class="bg-white px-3 py-2 text-black rounded-sm"><NuxtLink to="/portfolio">LET'S TALK</NuxtLink></li>
+            <li class="bg-white px-3 py-2 text-black rounded-sm"><NuxtLink to="/inquiry">LET'S TALK</NuxtLink></li>
           </ul>
         </nav>
       </div>
