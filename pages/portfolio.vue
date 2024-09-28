@@ -1,6 +1,6 @@
-<!-- <template>
+<template>
   <div class="h-max w-screen bg-[#191919] mt-[-2.5rem] relative overflow-hidden">
-      <div class="document text-center top-0 left-0 right-0">
+      <!-- <div class="document text-center top-0 left-0 right-0">
       <p class="text-white text-8xl font-thin mb-5">GALLERY</p>
       <p class="text-white text-lg font-thin opacity-50 mb-4">Explore my collection of user-centered design projects, where creativity meets functionality. Each piece reflects my commitment to intuitive, seamless user experiences that solve real-world problems. Discover how I blend design thinking with a keen eye for detail to create impactful digital interfaces!</p>
       <div class="flex flex-wrap -mx-2 pt-10">
@@ -85,6 +85,6 @@
 
 
 
-  </div>
+  </div> -->
 </div>
-</template> -->
+</template>
