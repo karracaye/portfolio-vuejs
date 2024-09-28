@@ -84,7 +84,8 @@
 
 
 
-
+  
   </div>
+  <Footer />
 </div>
 </template>
