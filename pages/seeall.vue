@@ -5,7 +5,7 @@
         <p class="text-white text-lg font-thin opacity-50 mb-4">My latest web design projects and see how we can help bring your ideas to life.</p>
         <div class="grid grid-cols-2 md:grid-cols-2 gap-6  -mt-[-3rem]">
             <a href="/document" class="relative">
-                <img :src="Mockup1" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
+                <img src="/public/img/MOCK UP 02.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
                     <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
                         <div class="circle glassy">
                         <i class="fas fa-arrow-right text-gray"></i>
@@ -113,9 +113,3 @@
     <Footer />
 </div>
 </template>
-
-<script setup>
-    import { ref } from 'vue';
-    import Mockup1 from '@/public/img/MOCK UP - 01.png'
-   
-</script>
