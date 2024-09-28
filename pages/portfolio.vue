@@ -67,7 +67,7 @@
         alt="Yosemite National Park"
       />
       <img
-        src="../public/img/MOCKUP-3.jpg"
+        src="../public/img/MOCK UP- 04.png"
         class="w-full shadow-lg rounded mb-4"
         alt="Yosemite National Park"
       />
@@ -86,6 +86,5 @@
 
 
   </div>
-  <Footer />
 </div>
 </template>
