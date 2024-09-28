@@ -77,13 +77,13 @@
                         <p class="text-sm font-extralight text-white p-2">WEB DESIGN</p>
                     </div>
                 </div>
-                <!-- <div class="relative">
+                <div class="relative">
                     <img src="../public/img/lawsys.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
                     <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
                         <div class="circle glassy">
                         <i class="fas fa-arrow-right text-gray"></i>
                         </div>
-                    </div> -->
+                    </div>
                     <div class="absolute bottom-0 left-0 right-0 bg-gray-300 bg-opacity-80 p-3 m-10 flex justify-between gallery-info">
                         <p class="text-sm font-extralight text-white p-2">LAWFIRM MANAGEMENT SYSTEM</p>
                         <p class="text-sm font-extralight text-white p-2">WEB DESIGN</p>
@@ -110,5 +110,5 @@
             </div>
         </div>
     </div>
-
+</div>
 </template>
