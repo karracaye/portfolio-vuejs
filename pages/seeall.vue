@@ -102,9 +102,9 @@
                     </div>
                 </div>
                 <div class="w-full col-span-2 flex-col">
-                    <div class="flex justify-center flex-col items-center ">
+                    <div class="flex justify-center flex-col items-center pt-12">
                         <div class=" absolute works-desc text-2xl font-extralight">
-                            <p>Your works define not only who you are, but also the intelligence of the art within you."</p>
+                            <p>"Your works define not only who you are, but also the intelligence of the art within you."</p>
                         </div>
                     </div>
             </div>
