@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="h-max w-screen bg-[#191919] mt-[-2.5rem] relative overflow-hidden">
       <div class="document text-center top-0 left-0 right-0">
       <p class="text-white text-8xl font-thin mb-5">GALLERY</p>
@@ -87,4 +87,4 @@
 
   </div>
 </div>
-</template>
+</template> -->
