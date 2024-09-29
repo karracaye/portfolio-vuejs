@@ -74,14 +74,16 @@
           <div>
             <p class="text-4xl opacity-75">Selected Work</p>
           </div>
-          <div class="flex items-center">
+          <div class="flex items-center ">
+            <div class="hidden md:flex">
             <div class="circle glass-effect">
               <i class="fas fa-arrow-right"></i>
+            </div>
             </div>
             <a href="/seeall" class="text-xs ml-2">SEE ALL</a>
           </div>
         </div>
-        <div class="selected-works-result grid grid-cols-2 md:grid-cols-2 gap-6 p-12 -mt-[4rem]">
+        <div class="selected-works-result grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-6 p-6 sm:p-8 md:p-10 lg:p-12 -mt-[4rem]">
 
           <a href="/document" class="relative">
             <img src="/public/img/MOCK UP 02.png" alt="Sample Image" class="w-full h-full object-cover rounded-sm gallery-img">
@@ -148,12 +150,12 @@
 
 
              <!-- ITEM CARD 1 RIGHT -->
-             <div class="grid grid-cols-3 pt-7 ">
-              <div></div>
+             <div class="grid grid-cols-1 md:grid-cols-3 pt-7 justify-items-center">
+              <div class="hidden md:block"></div>
 
               <div class="flex justify-center items-center relative flex-col gap-4">
                 <p class="text-xs circle-glass">01</p>
-               <div class="bg-white opacity-5 w-px vertical" />
+                <div class="bg-white opacity-5 w-px h-48 vertical"></div>
               </div>
               <div class="circle-glass w-full p-8 no-display">
                 <!-- .. -->
@@ -170,7 +172,7 @@
              </div>
 
              <!-- ITEM CARD 2 LEFT -->
-             <div class="grid grid-cols-3 pt-7">
+             <div class="grid grid-cols-1 md:grid-cols-3 pt-7 justify-items-center">
               <div class="circle-glass w-full p-7 no-display">
                 <!-- .. -->
                 <div class="box max-w-md w-30 box-card animate-fade-in-up left-box"  style="animation-delay: 0.3s;">
