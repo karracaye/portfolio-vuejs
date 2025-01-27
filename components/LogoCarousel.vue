@@ -1,12 +1,5 @@
 <template>
-    <div class="logo-carousel container mx-auto text-white flex justify-center items-center mb-10 p-20">
-        <!-- <img src="/img/white-intelliseven.png" class="logo-animation small-logo" alt="Logo 1" style="width: 190px; height: 50px; margin-right: 110px;">
-        <img src="/img/hotel carlito.png" class="logo-animation small-logo" alt="Logo 2" style="width: 110px; height: 50px; margin-right: 110px;">
-        <img src="/img/GPA.png" class="logo-animation small-logo" alt="Logo 3" style="width: 90px; height: 90px; margin-right: 100px;">
-        <img src="/img/Lawsys.png" class="logo-animation small-logo" alt="Logo 4" style="width: 70px; height: 70px; margin-right: 110px;">
-        <img src="/img/75-anniv-logo.png" class="logo-animation small-logo" alt="Logo 5" style="width: 80px; height: 80px; margin-right: 110px;">
-        <img src="/img/INNOVEX 1.png" class="logo-animation small-logo" alt="Logo 6" style="width: 80px; height: 80px; margin-right: 110px;">
-
+    <div class="logo-carousel container mx-auto text-white flex justify-center items-center mb-5 p-20">
         <img src="/img/white-intelliseven.png" class="logo-animation small-logo" alt="Logo 1" style="width: 190px; height: 50px; margin-right: 110px;">
         <img src="/img/hotel carlito.png" class="logo-animation small-logo" alt="Logo 2" style="width: 110px; height: 50px; margin-right: 110px;">
         <img src="/img/GPA.png" class="logo-animation small-logo" alt="Logo 3" style="width: 90px; height: 90px; margin-right: 100px;">
@@ -17,8 +10,15 @@
         <img src="/img/white-intelliseven.png" class="logo-animation small-logo" alt="Logo 1" style="width: 190px; height: 50px; margin-right: 110px;">
         <img src="/img/hotel carlito.png" class="logo-animation small-logo" alt="Logo 2" style="width: 110px; height: 50px; margin-right: 110px;">
         <img src="/img/GPA.png" class="logo-animation small-logo" alt="Logo 3" style="width: 90px; height: 90px; margin-right: 100px;">
+        <img src="/img/cnlogo.png" class="logo-animation small-logo" alt="Logo 4" style="width: 100px; height: 30px; margin-right: 110px;">
         <img src="/img/75-anniv-logo.png" class="logo-animation small-logo" alt="Logo 5" style="width: 80px; height: 80px; margin-right: 110px;">
-        <img src="/img/INNOVEX 1.png" class="logo-animation small-logo" alt="Logo 6" style="width: 80px; height: 80px; margin-right: 110px;"> -->
+        <img src="/img/INNOVEX 1.png" class="logo-animation small-logo" alt="Logo 6" style="width: 80px; height: 80px; margin-right: 110px;">
+
+        <img src="/img/white-intelliseven.png" class="logo-animation small-logo" alt="Logo 1" style="width: 190px; height: 50px; margin-right: 110px;">
+        <img src="/img/hotel carlito.png" class="logo-animation small-logo" alt="Logo 2" style="width: 110px; height: 50px; margin-right: 110px;">
+        <img src="/img/GPA.png" class="logo-animation small-logo" alt="Logo 3" style="width: 90px; height: 90px; margin-right: 100px;">
+        <img src="/img/75-anniv-logo.png" class="logo-animation small-logo" alt="Logo 5" style="width: 80px; height: 80px; margin-right: 110px;">
+        <img src="/img/INNOVEX 1.png" class="logo-animation small-logo" alt="Logo 6" style="width: 80px; height: 80px; margin-right: 110px;"> 
         
     </div>
 </template>

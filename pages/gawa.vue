@@ -1,12 +1,13 @@
 <template>
     <div class="h-max w-screen bg-[#191919] mt-[-2.5rem] relative overflow-hidden">
       <div class="document text-center top-0 left-0 right-0">
-        <p class="text-white text-8xl font-thin mb-5">Legal Document</p>
-        <p class="text-white text-lg font-thin opacity-50">Legal Document streamlines legal document creation, management, and storage <br>with a user-friendly interface and robust features, simplifying the complex and <br>time-consuming process of drafting agreements, contracts, and forms.</p>
+        <p class="text-white text-8xl font-thin mb-5">GAWA PH</p>
+        <p class="text-white text-lg font-thin opacity-50 mb-4">"Connecting You with the Right Talent, Anytime, Anywhere."</p>
+        <p class="text-white text-lg font-thin opacity-50">GAWA PH is a web app that connects clients with skilled freelancers for various projects. From web development to graphic design, GAWA PH makes it easy to find the right freelancer to meet your needs, with a user-friendly platform for browsing portfolios, reading reviews, and hiring professionals.</p>
         <div class=" flex justify-center items-center mt-[5rem]">
           <div class="box-document flex flex-col items-center justify-center mb-60">
             <p class="text-white text-sm font-thin mb-1">CLIENT</p>
-            <p class="text-white text-sm font-thin opacity-50">Intelliseven Inc.</p>
+            <p class="text-white text-sm font-thin opacity-50">Benea Painting Ltd.</p>
           </div>
           <div class="box-document flex flex-col items-center justify-center mb-60">
             <p class="text-white text-sm font-thin mb-1">TIMELINE</p>
@@ -14,25 +15,18 @@
           </div>
           <div class="box-document flex flex-col items-center justify-center mb-60">
             <p class="text-white text-sm font-thin mb-1">SERVICES</p>
-            <p class="text-white text-sm font-thin opacity-50"> Mobile </p>
+            <p class="text-white text-sm font-thin opacity-50"> Web Design </p>
           </div>
           <div class="box-document flex flex-col items-center justify-center mb-60">
-            <p class="text-white text-sm font-thin mb-1">WEBSITE</p>
-            <p class="text-white text-sm font-thin opacity-50">Private</p>
+            <p class="text-white text-sm font-thin mb-1">UI LINK</p>
+            <p class="text-white text-sm font-thin opacity-50">https://rb.gy/2z5kl6</p>
           </div>
         </div>
         <div class="more-details flex justify-center items-center mt-[-10rem] mb-7">
-            <a href="/moredetails" class="circle"></a>
-                <a href="/moredetails" class="text-white text-xs font-thin opacity-50 ml-2">MORE DETAILS</a>
+            <div class="circle"></div>
+                <p class="text-white text-xs font-thin opacity-50 ml-2">MORE DETAILS</p>
             </div>
-            <iframe 
-              style="border: 1px solid rgba(0, 0, 0, 0.1);" 
-              width="800" 
-              height="800" 
-              src="https://embed.figma.com/proto/eG3i9EJ3os7gTmB5EO0Y9W/Admin-Dashboard-Mobile-v.1-Design-(DocumentMaker)?node-id=1-188&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A188&embed-host=share" 
-              allowfullscreen 
-              class="document-photo w-full mb-[6rem]">
-            </iframe>
+            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://embed.figma.com/proto/YKJ2EMHLs5Bo8uUROcwJwR/Gawa?node-id=2-45&starting-point-node-id=2%3A45&embed-host=share" allowfullscreen></iframe>
             <div class="grid grid-cols-2 mt-10 gap-4">
             <!-- Left side -->
             <div v-if="sticky" class="text-white text-sm font-thin text-left transition-all sticky">
@@ -76,30 +70,29 @@
 
     const sticky = ref(false)
 
-    // Function to handle scroll event
+    
     const handleScroll = () => {
-        sticky.value = window.pageYOffset > 1300; // Change 300 to the desired scroll position where you want the sticky behavior to start
+        sticky.value = window.pageYOffset > 1300; 
     }
 
-    // Add event listener when component is mounted
+   
     onMounted(() => {
     window.addEventListener('scroll', handleScroll)
     })
 
-    // Remove event listener when component is unmounted
+    
     onUnmounted(() => {
     window.removeEventListener('scroll', handleScroll)
     })
 </script>
 <style scoped>
-    /* Add styles for sticky class */
     .sticky {
     position: fixed;
     top: 124px;
     left: 124px;
     width: 40%;
     right: 0;
-    z-index: 1000; /* Adjust z-index as needed */
-    /* Add other styles for sticky behavior */
+    z-index: 1000; 
+    
     }
 </style>

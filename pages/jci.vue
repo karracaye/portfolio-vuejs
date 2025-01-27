@@ -25,7 +25,7 @@
             <div class="circle"></div>
                 <p class="text-white text-xs font-thin opacity-50 ml-2">MORE DETAILS</p>
             </div>
-            <img  src="/public/img/JCI-Mockup01.jpg" alt="Document Photo 1" class="document-photo w-full document-photo mb-[6rem]">
+            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://embed.figma.com/proto/0U27Mm7DmOPim1cyDlLU7f/JCI-Website-Draft?node-id=194-354&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
             <div class="grid grid-cols-2 mt-10 gap-4">
             <!-- Left side -->
             <div v-if="sticky" class="text-white text-sm font-thin text-left transition-all sticky">
